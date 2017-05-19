@@ -1,0 +1,7 @@
+[19-May-2017 15:59:17 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 484
+[19-May-2017 15:59:17 UTC] PHP Stack trace:
+[19-May-2017 15:59:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[19-May-2017 15:59:17 UTC] PHP   2. require() /home/ubuntu/workspace/public/index.php:22
+[19-May-2017 15:59:17 UTC] PHP   3. require() /home/ubuntu/workspace/bootstrap/autoload.php:17
+[19-May-2017 15:59:17 UTC] PHP   4. ComposerAutoloaderInit8944c900cd7827e94e5e086e7a3e193a::getLoader() /home/ubuntu/workspace/vendor/autoload.php:7
+[19-May-2017 15:59:17 UTC] PHP   5. composerRequire8944c900cd7827e94e5e086e7a3e193a() /home/ubuntu/workspace/vendor/composer/autoload_real.php:56
